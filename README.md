@@ -1,2 +1,1 @@
-# Interactive-blog
-Interactive blog with multiple functionality
+ Interactive Blog Displaying various designs and implementations
